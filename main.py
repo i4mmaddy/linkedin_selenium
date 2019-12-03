@@ -50,3 +50,4 @@ for url in urls:
   driver.get(url)
   sleep(2)
   driver.page_source
+  
