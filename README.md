@@ -1,2 +1,6 @@
 # linkedin_selenium
-scrape profile using linkedin
+scrape linkedin profile details using pyhton selenium
+
+#requirments
+
+
