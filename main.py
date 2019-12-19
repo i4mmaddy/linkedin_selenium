@@ -1,5 +1,5 @@
 from selenium import webdriver
-import sys
+import sys #for command line arguaments
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 from parsel import Selector
